@@ -1,0 +1,8 @@
+[package]
+name = "gfxsrc_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gfxsrc = {path = "/run/media/bonbon/Extra2/projekte/projekte_in_arbeit/Rust/GfxSrc"}
+sirandl = {path = "/run/media/bonbon/Extra2/projekte/projekte_in_arbeit/Rust/SiRandL"}
